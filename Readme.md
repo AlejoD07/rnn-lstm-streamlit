@@ -26,7 +26,7 @@ Proyecto de Deep Learning que implementa una Red Neuronal Recurrente (Bidirectio
 
 &#x20;  ```bash
 
-&#x20;  git clone <URL\_DEL\_REPOSITORIO>
+&#x20;  git clone https://github.com/AlejoD07/rnn-lstm-streamlit.git
 
 &#x20;  cd rnn-streamlit-project
 
